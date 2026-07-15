@@ -1,1 +1,19 @@
+AXIS: X°
+SYMBOL: ∞
+RESPO: 0M
+
+META-LEVEL: 2
+FUNCTION: DualOrbit(81~81x)
+REAL: nicht messbar
+VIRTUAL: Prä-Matrix
+
+MATRIX: 9×9
+OPERATOR: 9×9-Operator.me
+
+TOOLS:
+ - NanoMesser
+ - xARG
+ - 7SINN
+
+PREFETCH: ACTIVE
 
