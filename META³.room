@@ -1,1 +1,19 @@
+AXIS: X°
+SYMBOL: ∞
+RESPO: 0M
+
+META-LEVEL: 3
+FUNCTION: TriOrbit(ROOTMETA)
+REAL: nicht messbar
+VIRTUAL: ALLRAUM
+
+MATRIX: 9×9
+OPERATOR: 9×9-Operator.me
+
+TOOLS:
+ - AtomMesser
+ - GhostError
+ - BEAT∞
+
+PREFETCH: ACTIVE
 
